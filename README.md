@@ -1,5 +1,3 @@
-# NFR-Classification-ULMFiT
-
 # ULMFiT for NFR Classification
 
 This repository contains the implementation of ULMFiT (Universal Language Model Fine-tuning) for classifying Non-Functional Requirements (NFR) sentences. The project includes a Jupyter notebook implementing the ULMFiT model using the FastAI library, as well as the dataset used for training, results, and checkpoint files.
