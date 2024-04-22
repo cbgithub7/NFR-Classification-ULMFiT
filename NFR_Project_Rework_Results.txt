@@ -1,0 +1,11 @@
+Plain ULMFiT
+epoch	train_loss	valid_loss	accuracy	time
+0	0.584524	0.564944	0.824176	00:36
+1	0.492755	0.558194	0.835165	00:37
+
+
+Using MixUp (maybe incorrectly?)
+epoch	train_loss	valid_loss	accuracy	time
+0	0.337331	0.596301	0.813187	00:42
+1	0.309280	0.585356	0.829670	00:36
+2	0.220992	0.571742	0.829670	00:35
