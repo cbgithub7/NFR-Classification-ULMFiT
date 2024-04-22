@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -67,8 +67,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-[Your Name] - [Your Contact Information]
+Cody Baker - https://github.com/cbgithub7
 
 ```
-
-Feel free to customize this template according to your specific project details and preferences.
