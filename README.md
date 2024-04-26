@@ -63,8 +63,8 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 - Thanks to FastAI and PyTorch for providing powerful libraries for deep learning.
 - The datasets used in this project were sourced from [the
 International Requirements Engineering Conference’s 2017
-Data Challenge dataset](http://ctp.di.fct.unl.pt/RE2017//downloads/datasets/nfr.arff) and [the Predictors Models in
-Software Engineering (PROMISE) NFR dataset]
+Data Challenge dataset](http://ctp.di.fct.unl.pt/RE2017//downloads/datasets/nfr.arff) and the Predictors Models in
+Software Engineering (PROMISE) NFR dataset.
 
 ## Author
 
